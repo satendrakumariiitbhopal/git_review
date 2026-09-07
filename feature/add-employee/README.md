@@ -1,6 +1,1 @@
-Feature: Add Employee
-
-Required fields:
-- Name
-- Employee ID
-- Department
+Project Status: Employee Module Under Testing
