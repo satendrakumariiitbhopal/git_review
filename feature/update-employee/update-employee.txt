@@ -1,0 +1,5 @@
+Feature: Update Employee
+
+Fields that can be updated:
+- Name
+- Department
